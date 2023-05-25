@@ -1,0 +1,23 @@
+.conatiner{
+    height:712px;
+    background-image: url('https://ssgnet.com/wp-content/uploads/2015/09/blue-red-background.jpg');
+  }
+  
+  .form-control{
+    margin-bottom: 20px;
+    width: 300px;
+  }
+  
+  .form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .valid{
+    margin-right: auto;
+    margin-top: -15px;
+    color: yellow;
+    padding-left: 10px;
+  }

@@ -1,0 +1,13 @@
+.ro{
+    height:712px;
+    background-image: url('https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000');
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.content{
+padding: 20px;
+ margin-right: auto;
+}
